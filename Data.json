@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Lac Izna Bangles Set",
+      "description": "The famous lac bangles of Jaipur are as old as the city itself. ",
+      "price": 600,
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0745/3953/2586/products/COVER_2_-910.jpg?v=1680695103"
+    },
+    {
+      "id": 2,
+      "title": "Lac Firozi Swirl Bangles",
+      "description": "The famous lac bangles of Jaipur are as old as the city itself.",
+      "price": 800,
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0745/3953/2586/products/Untitled-1.jpg?v=1680694782"
+    },
+    {
+      "id": 3,
+      "title": "Lac Eira bangles Set",
+      "description": "The famous lac bangles of Jaipur are as old as the city itself.",
+      "price": 1000,
+
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0745/3953/2586/products/COVER_30_-468_69152dcd-1e0a-4c7d-b4a5-0a8f9c815b62.jpg?v=1680693247"
+    },
+    {
+      "id": 4,
+      "title": "Lac Cocoa Swirl Bangles",
+      "description": "The famous lac bangles of Jaipur are as old as the city itself.",
+      "price": 1200,
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0745/3953/2586/products/BEADEDLONGNECKLACEANDEARRINGSET-AZUREGARDEN-5.jpg?v=1680692078"
+    }
+  ]
+}
